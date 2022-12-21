@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Guna.UI2.WinForms</id>
+    <version>2.0.3.4</version>
+    <title>Guna.UI2.WinForms</title>
+    <authors>Sobatdata, Ilham Mutaqin, Russell Chidhakwa</authors>
+    <owners>Sobatdata</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://gunaui.com/</projectUrl>
+    <description>Guna UI is the suite for creating groundbreaking desktop app UI. It is for developers targeting the .NET Windows Forms platform. Guna UI guarantees faster development and improved productivity.
+
+Requirements
+Minimum System and User Requirements
+
+Guna UI currently work with C# and VB.NET languages, specifically and specially designed for Windows Forms applications.
+
+To effectively get the most out of our tools, your system needs to meet the following minimum requirements:
+- Runs on Windows.
+- Microsoft .NET Framework 4.0 or higher.
+- Visual Studio 2012 or later (recommended).
+
+As a developer, you need to:
+- Have a basic knowledge of C# or VB.NET.
+- Have a basic knowledge of Windows Forms.</description>
+    <releaseNotes>Note: Before updating Guna.UI, don't forget to backup your project!!
+ 
+
+- Guna2ComboBox: Fixed an issue where dropdown items didn't refresh when scrolling
+
+- Guna2DataGridView: Fixed an issue changing values for some properties such as: SelectionMode, AutoSizeColumnsMode ColumnHeadersBorderStyle, CellBorderStyle, and ColumnHeadersHeightSizeMode</releaseNotes>
+    <copyright>© 2022 Sobatdata Technology</copyright>
+    <tags>c# vb winforms controls .net guna ui guna-ui framework gunaframework guna-framework ui-controls sobatdata</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+    </dependencies>
+  </metadata>
+</package>

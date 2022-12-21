@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Mariusz Gromada</dc:creator>
+  <dc:description>mXparser is a super easy, rich, fast and highly flexible math expression parser library (parser and evaluator of mathematical expressions / formulas provided as plain text / string). Software delivers easy to use API for JAVA, Android and C# .NET/MONO (Common Language Specification compliant: F#, Visual Basic, C++/CLI). *** If you find the software useful donation or purchase is something you might consider: https://mathparser.org/donate/ *** Online store: https://payhip.com/INFIMA *** Scalar Scientific Calculator, Charts and Scripts, Scalar Lite: https://play.google.com/store/apps/details?id=org.mathparser.scalar.lite *** Scalar Pro: https://play.google.com/store/apps/details?id=org.mathparser.scalar.pro *** ScalarMath.org: https://scalarmath.org/ *** MathSpace.pl: https://mathspace.pl/ ***</dc:description>
+  <dc:identifier>MathParser.org-mXparser</dc:identifier>
+  <version>5.0.7</version>
+  <keywords>Math Mathematics Mathematical Expression Expressions Parser Formula Evaluator Calculator Units Solve Probability Integration Derivative Calculus Recursion Operator Logic Condition Bitwise Custom MONO .NET Core Standard PCL Xamarin Android iOS Unary Binary Ternary Quaternary Quinary Senary Septenary Octal Nonary Decimal Undecimal Duodecimal Tridecimal Tetradecimal Pentadecimal Hexadecimal Base_N</keywords>
+  <lastModifiedBy>NuGet, Version=6.1.0.106, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 10.0.19044.0;.NET Framework 4.7.2</lastModifiedBy>
+</coreProperties>

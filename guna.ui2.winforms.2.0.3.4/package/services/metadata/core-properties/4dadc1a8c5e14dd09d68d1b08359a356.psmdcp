@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Sobatdata,  Ilham Mutaqin,  Russell Chidhakwa</dc:creator>
+  <dc:description>Guna UI is the suite for creating groundbreaking desktop app UI. It is for developers targeting the .NET Windows Forms platform. Guna UI guarantees faster development and improved productivity.
+
+Requirements
+Minimum System and User Requirements
+
+Guna UI currently work with C# and VB.NET languages, specifically and specially designed for Windows Forms applications.
+
+To effectively get the most out of our tools, your system needs to meet the following minimum requirements:
+- Runs on Windows.
+- Microsoft .NET Framework 4.0 or higher.
+- Visual Studio 2012 or later (recommended).
+
+As a developer, you need to:
+- Have a basic knowledge of C# or VB.NET.
+- Have a basic knowledge of Windows Forms.</dc:description>
+  <dc:identifier>Guna.UI2.WinForms</dc:identifier>
+  <version>2.0.3.4</version>
+  <keywords>c# vb winforms controls .net guna ui guna-ui framework gunaframework guna-framework ui-controls sobatdata</keywords>
+  <lastModifiedBy>NuGet, Version=5.6.0.5, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 10.0.22000.0;.NET Framework 4.7.2</lastModifiedBy>
+</coreProperties>
